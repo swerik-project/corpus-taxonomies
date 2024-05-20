@@ -1,0 +1,29 @@
+<taxonomy xml:id="motType">
+  <desc xml:lang="en">
+    Motion Types. N.b. There is some overlap between motType and motCategory; it is not entirely clear if there is a difference between these two taxonomies or they should / could be merged.
+  </desc>
+  <category xml:id="enskild">
+    <catDesc xml:lang="sv">Enskild motion</catDesc>
+    <catDesc xml:lang="en">Individual Motion</catDesc>
+  </category>
+  <category xml:id="kommitte">
+    <catDesc xml:lang="sv">Kommittémotion</catDesc>
+    <catDesc xml:lang="en">Committee Motion</catDesc>
+  </category>
+  <category xml:id="parti">
+    <catDesc xml:lang="sv">Partimotion</catDesc>
+    <catDesc xml:lang="en">Party Motion</catDesc>
+  </category>
+  <category xml:id="flerparti">
+    <catDesc xml:lang="sv">Flerpartimotion</catDesc>
+    <catDesc xml:lang="en">Multi-party Motion</catDesc>
+  </category>
+  <category xml:id="fristående">
+    <catDesc xml:lang="sv">Fristående motion</catDesc>
+    <catDesc xml:lang="en">Freestanding Motion</catDesc>
+  </category>
+  <category xml:id="följd">
+    <catDesc xml:lang="sv">Följdmotion</catDesc>
+    <catDesc xml:lang="en">Sequential Motion</catDesc>
+  </category>
+</taxonomy>

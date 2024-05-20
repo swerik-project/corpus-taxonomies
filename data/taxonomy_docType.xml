@@ -1,0 +1,25 @@
+<taxonomy xml:id="docType">
+  <desc xml:lang="en">
+    Document types contained and referenced in the Swedish Parliament Corpus.
+  </desc>
+  <category xml:id="bet">
+    <catDesc xml:lang="sv">Utskottens betänkanden</catDesc>
+    <catDesc xml:lang="en">Committee reports</catDesc>
+  </category>
+  <category xml:id="ipq">
+    <catDesc xml:lang="sv">Interpellationsfrågor</catDesc>
+    <catDesc xml:lang="en">Interpellations questions</catDesc>
+  </category>
+  <category xml:id="mot">
+    <catDesc xml:lang="sv">Motioner</catDesc>
+    <catDesc xml:lang="en">Motions</catDesc>
+  </category>
+  <category xml:id="prop">
+    <catDesc xml:lang="sv">Propositioner</catDesc>
+    <catDesc xml:lang="en">Propositions</catDesc>
+  </category>
+  <category xml:id="prot">
+    <catDesc xml:lang="sv">Riksdagens protokoll</catDesc>
+    <catDesc xml:lang="en">Riksdag records</catDesc>
+  </category>
+</taxonomy>

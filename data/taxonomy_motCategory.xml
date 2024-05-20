@@ -1,0 +1,17 @@
+<taxonomy xml:id="motCategory">
+  <desc xml:lang="en">
+    Motion Categories. N.b. There is some overlap between motType and motCategory; it is not entirely clear if there is a difference between these two taxonomies or they should / could be merged.
+  </desc>
+  <category xml:id="fristående">
+    <catDesc xml:lang="sv">Fristående motion</catDesc>
+    <catDesc xml:lang="en">Freestanding Motion</catDesc>
+  </category>
+  <category xml:id="följd">
+    <catDesc xml:lang="sv">Följdmotion</catDesc>
+    <catDesc xml:lang="en">Sequential Motion</catDesc>
+  </category>
+  <category xml:id="händelse">
+    <catDesc xml:lang="sv">Händelse av större vikt</catDesc>
+    <catDesc xml:lang="en">Motion arising from significant event</catDesc>
+  </category>
+</taxonomy>
