@@ -1,0 +1,5 @@
+<classDecl xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="https://raw.githubusercontent.com/swerik-project/corpus-taxonomies/main/data/taxonomy_docType.xml" parse="text/plain"/>
+  <xi:include href="https://raw.githubusercontent.com/swerik-project/corpus-taxonomies/main/data/taxonomy_motType.xml" parse="text/plain"/>
+  <xi:include href="https://raw.githubusercontent.com/swerik-project/corpus-taxonomies/main/data/taxonomy_motCategory.xml" parse="text/plain"/>
+</classDecl>
